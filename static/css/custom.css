@@ -1,0 +1,30 @@
+:root {
+    --bs-primary-rgb: 000,118,187;
+    --bs-danger-rgb: 255, 187, 0;
+}
+
+.section.hero .hero-title strong {
+    color: #FFBB00;
+}
+
+.btn-primary {
+    color: #000;
+    background-color: #0076BB;
+    border-color: #264b96;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+  }
+
+.btn-outline-primary {
+    color: #575757;
+    border-color: #7C76BB;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #0d62e0;
+    border-color: #0a58ca;
+  }

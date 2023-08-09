@@ -1,0 +1,71 @@
+baseURL: "https://www.shiftcollective.com/"
+
+languageCode: "en-us"
+
+title: "Shift Collective"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Shift Collective"
+  description: "We strive to enhance the experiences of users and administrators, fostering a digital ecosystem that prioritizes transparency, fairness, and community over profit."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    matrix: "#"
+
+  contact:
+    - "contact@shiftcollective.org"
+
+  copyright: "© All Rights Reserved"
+  custom_css: ["css/custom.css"]
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "About"
+      url: "/about"
+      weight: 2
+
+    - name: "Our team"
+      url: "/team"
+      weight: 3
+
+    - name: "Docs"
+      url: "https://shiftcollective-org.github.io/Docs/"
+      weight: 4
+
+  buttons:
+    - name: "Login"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "About"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+taxonomies:
+  series: "series"
+  tags: "tags"

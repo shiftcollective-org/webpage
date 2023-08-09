@@ -1,0 +1,13 @@
+enabled: false
+id: "services"
+
+content:
+  title: "Our main services"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Lemmy"
+      text: "Lemmy is a selfhosted social link aggregation and discussion platform."
+      button:
+        label: "Learn more"
+        url: "#"

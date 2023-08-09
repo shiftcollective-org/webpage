@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "The Future of Social Media!"
+  text: "Be part of a network that values privacy, freedom, and authentic connections. Together, we're shaping a new era!"
+  button:
+    label: "Join"
+    url: "#"

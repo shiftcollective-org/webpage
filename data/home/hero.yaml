@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "**Decentralized** Social Media"
+  text: "Our mission is to empower and expedite the global shift from centralized, profit-driven social media services to decentralized, non-profit platforms."
+  buttonPrimary:
+    label: "Learn more"
+    url: "#"
+
+  buttonSecondary:
+    label: "Join"
+    url: ""
+
