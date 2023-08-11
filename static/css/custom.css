@@ -20,7 +20,7 @@
 
 .btn-outline-primary {
     color: #575757;
-    border-color: #7C76BB;
+    border-color: #264b96;
 }
 
 .btn-outline-primary:hover {
@@ -28,3 +28,7 @@
     background-color: #0d62e0;
     border-color: #0a58ca;
   }
+
+.btn-outline-primary {
+    border-color: #264b96;
+}
