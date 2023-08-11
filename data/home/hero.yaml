@@ -6,9 +6,9 @@ content:
   text: "Our mission is to empower and expedite the global shift from centralized, profit-driven social media services to decentralized, non-profit platforms."
   buttonPrimary:
     label: "Learn more"
-    url: "#"
+    url: "about"
 
   buttonSecondary:
     label: "Join"
-    url: ""
+    url: "join"
 

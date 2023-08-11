@@ -49,7 +49,7 @@ menus:
 
   buttons:
     - name: "Login"
-      url: "/#"
+      url: "/login"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -59,11 +59,11 @@ menus:
       weight: 1
 
     - name: "About"
-      url: "/#"
+      url: "/about"
       weight: 2
 
     - name: "Our team"
-      url: "/#"
+      url: "/team"
       weight: 3
 
 taxonomies:
