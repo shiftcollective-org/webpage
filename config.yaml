@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Shift Collective"
-  description: "We strive to enhance the experiences of users and administrators, fostering a digital ecosystem that prioritizes transparency, fairness, and community over profit."
+  description: "Shift Collective is a non-profit organization that improves decentralized social media platforms and offers managed hosting services for platforms like Lemmy and Mastodon"
   images: 
     - "images/hero-image.png"
 

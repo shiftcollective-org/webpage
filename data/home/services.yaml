@@ -2,12 +2,24 @@ enabled: false
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Resources"
+  text: ""
   cards:
-    - image: "images/services-web-development.png"
-      title: "Lemmy"
-      text: "Lemmy is a selfhosted social link aggregation and discussion platform."
+    - image: "images/temp.png"
+      title: "Hosting"
+      text: "We simplify and improve experiences for social media hosting."
       button:
         label: "Learn more"
-        url: "#"
+        url: "resources/hosting"
+    - image: "images/temp.png"
+      title: "Developers"
+      text: "We partner with developers to improve Fediverse platforms and the tools that they rely on."
+      button:
+        label: "Learn more"
+        url: "resources/developers"
+    - image: "images/temp.png"
+      title: "Users"
+      text: "We help new users onboard to decentralized social media platforms."
+      button:
+        label: "Learn more"
+        url: "resources/users"
